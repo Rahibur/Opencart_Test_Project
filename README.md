@@ -1,7 +1,7 @@
 **Opencart**  
 ---
 
-**![][image1]**
+**![alt text](https://github.com/Rahibur/Opencart_Test_Project/edit/main/image1.png?raw=true)**
 
 **Overview**  
 As part of the project, ‘OpenCart’ asked Pavan to test a few functionalities of  
